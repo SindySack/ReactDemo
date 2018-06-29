@@ -9,7 +9,7 @@ class CityList extends React.Component {
         this.newCityId = -1;
 
         //API Key direct von openweathermap
-        this.API_KEY = '3987afb9904496f4e4bcc2cd1a548684';
+        this.API_KEY = '';
 
         // Lade die Städte aus dem localStorage
         let cities = JSON.parse(localStorage.getItem('cities'));
