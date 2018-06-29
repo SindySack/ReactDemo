@@ -6,7 +6,7 @@ class CityForecast extends React.Component {
     constructor(props) {
         super(props);
 
-        this.API_KEY = '3987afb9904496f4e4bcc2cd1a548684';
+        this.API_KEY = '';
 
         this.state = {
             days: [],
