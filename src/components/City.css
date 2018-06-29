@@ -1,0 +1,12 @@
+.icon {
+    position: absolute;
+    margin: 20px;
+}
+
+.city-info {
+    margin-left: 100px;
+}
+
+.icon.loading {
+    font-size: 50px;
+}
